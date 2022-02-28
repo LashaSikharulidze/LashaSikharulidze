@@ -27,6 +27,8 @@ position: absolute;
   width: 300px;
   background-repeat: no-repeat;
   background-color: #edf5ed;
+ 
+
 }
 #netherlands{
   background-image: url("background2.jpg");
@@ -161,6 +163,16 @@ p {
   text-size: 14px;
   font-family: 'Quicksand', sans-serif;
 
+}
+#one{
+	font-size: 50px;
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+    margin-top: -9px;text-align: center;
+	text-size: 75 px;
+	color: white;
 }
 
 .margin-left {
